@@ -1,2 +1,7 @@
-# beneficios-nuvem-lab
-Este repositório contém o resumo das lições aprendidas sobre os benefícios da nuvem na DIO
+# Benefícios da computação em nuvem
+
+A computação em nuvem não é implementada por grandes organizações atoa, os serviços que são oferecidos pela nuvem entregam muitos benefícios para quem se utiliza deles. 
+
+Um destes benefícios é a alta disponibilidade, que permite que os serviços estejam disponíveis por grande parte do tempo. Na nuvem se a sua demanda necessitar de mais recursos, você pode adicioná-los, esse ajuste de recursos é conhecido como escalabilidade. Também temos a elasticidade, que consiste na expansão dos recursos decorrente de um grande aumento na demanda. Infraestrutura confiáveis e seguras são suportadas pela nuvem, permitindo a implementação de recursos em várias regiões e aquilo que acontece em uma região não afeta as outras. A nuvem por ter previsibilidade permite que você preveja de forma confiável a mudança no desempenho e custo. A segurança da nuvem vem de ferramentas que devem ser corretamente configuradas para desempenhar aquilo que se espera, você também pode gerenciar os sistemas operacionais e softwares instalados.
+
+A nuvem auxilia muito na governança, pois ela reconhece os recursos que estão fora dos padrôes corporativos e pode aplicar patches e atualizações automaticamente, auxiliando ainda mais a segurança, aplicando governança no ambiente de nuvem você pode gerenciar e proteger de forma mais eficiente o seu ambiente. O gerenciamento no ambiente de nuvem abrange a administração de recursos e pré-configurações para remover a necessidade de configuração manual, por exemplo, escalar recursos automaticamente se baseando na demanda.
